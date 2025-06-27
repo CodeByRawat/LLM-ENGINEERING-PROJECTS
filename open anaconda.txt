@@ -1,0 +1,12 @@
+open anaconda in any folder:paste this on the address bar 
+
+cmd /K "C:\Users\sachin rawat\anaconda3\Scripts\activate.bat"
+
+
+to open vs code: 
+conda activate llms
+code .
+
+to open juypter notebook:
+conda activate llms
+jupyter notebook
